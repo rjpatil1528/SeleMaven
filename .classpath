@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/jbk selenium software/Offline Website/Offline Website/Software/selenium-server-standalone-3.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/jbk selenium software/Offline Website/Offline Website/Software/selenium-java-2.46.0-srcs.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Downloads/excel jar/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
